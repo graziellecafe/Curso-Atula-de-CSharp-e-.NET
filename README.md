@@ -29,3 +29,20 @@ Para você realizar o curso você precisa:
 - Ter pelo menos três meses de experiência trabalhando com CSharp e ASP.Net Core ou ASP, Net MVC. 
 - Saiba o que são APIs e porque a criamos 
 - Entendimento do .Net. 
+
+
+## Introdução 
+- Create New Web API
+  - Nessa seção, criaremos um novo ASP .NET Core API do zero
+- Understand File e Folder Structure
+  - Entenderemos os arquivos e as pastas que o folder nos forneceu
+- Understand REST Principles and HTTP Verbs 
+  - Em seguida, entenderemos os princípios REST e os verbos HTTP comuns
+- Routing in ASP.NET Core Web APIs 
+  - Examinaremos o roteamento em nossa API da Web 
+- Running and Comuming our API 
+  - Em seguida, veremos como podemos executar e consumir nossa API usando SWAGGER e postman
+- Creating Our Project Domain Models
+  - Também começaremos nosso trabalho nessa API criando os modelos de domínio para nosso projeto
+- Learning & Using Entity Framework 
+  - Por fim, entenderemos, instalaremos e usaremos o núcleo da estrutura de entidade em nosso projeto
